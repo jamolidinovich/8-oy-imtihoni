@@ -14,7 +14,6 @@ function LeftSidebar() {
     min-height: 100vh;
     background-color: black;
     color: white;
-    /* position: -webkit-sticky; Safari uchun qo'llab-quvvatlash */
     position: sticky;
   `;
 

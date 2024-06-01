@@ -1,5 +1,4 @@
 import React from "react";
-import { ScaleLoader } from "react-spinners";
 import "./Loader.css";
 import { CirclesWithBar } from "react-loader-spinner";
 

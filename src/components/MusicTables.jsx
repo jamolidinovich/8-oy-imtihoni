@@ -158,7 +158,6 @@ function MusicTables({ data, handelLink, index }) {
       }
     }
   };
-  // console.log(tracks);
   return (
     <div className="music-row">
       <span
