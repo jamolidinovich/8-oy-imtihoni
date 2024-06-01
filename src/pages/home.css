@@ -1,0 +1,36 @@
+h1 {
+  padding: 20px 10px;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 37.95px;
+  letter-spacing: -0.03em;
+  text-align: left;
+}
+.HomeWrapper {
+  background: linear-gradient(180deg, #3333a3 -2.09%, #121212 7.4%);
+  padding: 20px;
+}
+
+.poem {
+  overflow: scroll;
+  scrollbar-color: red orange;
+  scrollbar-width: thin;
+}
+.img {
+  width: 40px;
+  height: 40px;
+  margin-left: 15px;
+  margin-bottom: 30px;
+}
+.afternoon {
+  font-size: 39px;
+  font-weight: 700;
+}
+
+.Mixes {
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+.cardwrap {
+  left: 0px;
+}

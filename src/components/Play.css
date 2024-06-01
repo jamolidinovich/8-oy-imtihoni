@@ -1,0 +1,19 @@
+.div-one {
+  width: 17%;
+  height: 90px;
+  background: aqua;
+}
+
+.div-main {
+  width: 66%;
+  height: 90px;
+  /* background-color: blue; */
+}
+
+img {
+  width: 100px;
+}
+
+audio::-webkit-media-controls-panel {
+  background-color: #6666af;
+}

@@ -1,0 +1,47 @@
+/* .play {
+  position: absolute;
+  margin-top: -100px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #181818;
+  color: white;
+}
+
+.player {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+.song-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+#song-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#song-artist {
+  font-size: 14px;
+}
+
+audio {
+  width: 100%;
+  max-width: 600px;
+} */

@@ -1,0 +1,85 @@
+.tables {
+  display: flex;
+  text-align: left;
+}
+.tabless {
+  background: #000;
+  height: 60px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  border-radius: 20px;
+  padding-left: 20px;
+}
+.p {
+  padding: 3px;
+  width: 100px;
+  color: #b3b3b3;
+  font-size: 13px;
+  font-weight: 450;
+  line-height: 22.77px;
+  text-align: left;
+}
+.pp {
+  font-size: 20px;
+  color: white;
+}
+.wra {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+.time {
+  color: white;
+}
+
+.music-row {
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  padding: 10px;
+  border-bottom: 1px solid #282828;
+  width: 100%;
+}
+
+.music-cover img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+.music-details {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.music-title {
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  width: 280px;
+}
+
+.music-artist {
+  font-size: 14px;
+  color: #b3b3b3;
+}
+
+.music-time {
+  display: flex;
+  align-items: center;
+  color: #b3b3b3;
+}
+
+.music-time span {
+  margin-left: 10px;
+}
+
+.play-icon {
+  color: black;
+  background: red;
+  font-size: 100px;
+}

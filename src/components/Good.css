@@ -1,0 +1,21 @@
+.Good {
+  width: 450px;
+  background-color: #36365f;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  border-radius: 8px;
+  font-family: Circular Std;
+  font-weight: 700;
+  margin-bottom: -8px;
+}
+.Good img {
+  width: 82px;
+  height: 82px;
+}
+
+.good-contyainerr {
+  padding-left: -100px;
+  left: 0px;
+}

@@ -1,0 +1,36 @@
+.tables {
+  display: flex;
+  gap: 20px;
+}
+.tables header {
+  width: 100%;
+}
+.img-select {
+  width: 40px;
+  height: 40px;
+  margin-right: 15px;
+}
+.playlist-header {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-top: 50px;
+}
+.playlist-name {
+  font-size: 100px;
+  font-weight: 600;
+  line-height: 80.33px;
+  letter-spacing: -0.06em;
+  text-align: left;
+}
+.playlist-desc {
+  font-family: Circular Std;
+  font-size: 20px;
+  font-weight: 450;
+  line-height: 25.3px;
+  text-align: left;
+}
+.playlist-image {
+  width: 297px;
+  height: 297px;
+}
